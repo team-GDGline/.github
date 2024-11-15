@@ -12,7 +12,7 @@
 ---
 ### 프론트 깃허브 레포지토리 : https://github.com/team-GDGline/gdgline-FE
 ### 백엔드 깃허브 레포지토리 : https://github.com/team-GDGline/gdgline-BA
-### AI 깃허브 레포지토리 : https://github.com/team-GDGline/gdgline-AI
+### AI 깃허브 레포지토리 : https://github.com/team-GDGline/gdgline-AI, https://github.com/team-GDGline/flask_model
 ---
 
 ## 서비스 요약
@@ -93,3 +93,4 @@ https://www.youtube.com/watch?v=aMVLtHDLiXQ&ab_channel=SinyoungPark
 ## 향후 개선 혹은 발전 방안
 - 더 다양한 물고기들을 인식할 수 있는 AI 모델 개발
 - 전국에 있는 아쿠아리움별 서비스 제공
+- 향상된 GPU 자원을 통한 증강된 사진 학습 (현재는 gpu 리소스의 부족으로 증강 전에 라벨링된 이미지만 사용함)
