@@ -84,7 +84,7 @@ https://www.youtube.com/watch?v=aMVLtHDLiXQ&ab_channel=SinyoungPark
 - 백엔드 서버 : GCP
 - AI : ultralytics, pytorch, opencv
 - AI 서버 : GCP
-- 
+  
 ### 웹 서버 아키텍쳐
 <img width="1355" alt="image" src="https://github.com/user-attachments/assets/ca371992-09f7-43a0-9eec-732aa9a0723c">
 
