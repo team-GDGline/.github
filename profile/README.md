@@ -6,7 +6,7 @@
 ---
 
 <a href='https://ifh.cc/v-6PMsQD' target='_blank'>
-    <img src='https://ifh.cc/g/8yS02n.png' width="200px;" style="display: block; margin: 0 auto;" border='0'>
+    <img src='https://github.com/user-attachments/assets/86303ba7-7154-482e-a58c-ab5a176db614' width="400px;" style="display: block; margin: 0 auto;" border='0'>
 </a>
 
 ---
@@ -22,19 +22,19 @@ __해양 생물들을 촬영하여 나만의 도감을 채워나가는 체험형
 <table>
 <tbody>
     <td align="center">
-        <img src="https://github.com/user-attachments/assets/8ff839aa-ff49-48b0-b24b-399e3187815f" alt="고희연" border="0" width="100px;" height="120px"; alt=""/></a>
+        <img src="https://github.com/user-attachments/assets/c6241b83-02ab-4015-a1f9-b570c6a57b3b" alt="고희연" border="0" width="100px;" height="120px"; alt=""/></a>
         <br /><sub><b>고희연 - FE</b></sub>
     </td>
     <td align="center">
-        <img src="https://github.com/user-attachments/assets/ddfdb877-209e-43a8-b2c4-746787e58488" alt="최기영" border="0" width="100px;" height="120px"; alt=""/></a>
+        <img src="https://github.com/user-attachments/assets/2190ac8f-319d-4cbc-a216-8eaae128b17d" alt="최기영" border="0" width="100px;" height="120px"; alt=""/></a>
         <br /><sub><b>최기영 - FE</b></sub>
     </td>
     <td align="center">
-        <img src="https://github.com/user-attachments/assets/ae44d26c-744c-4197-ac28-2229ac91bda1" alt="이동재" border="0" width="100px;" height="120px"; /></a>
+        <img src="https://github.com/user-attachments/assets/e60c3e1c-1d39-495b-8312-18d8ac8eccb7" alt="이동재" border="0" width="100px;" height="120px"; /></a>
         <br /><sub><b>이동재 - BE</b></sub>
     </td>
     <td align="center">
-        <img src="https://github.com/user-attachments/assets/e532e423-fdd2-47bd-894a-a345eed0536a" alt="정영진" border="0" width="100px;" height="120px"; alt=""/></a>
+        <img src="https://github.com/user-attachments/assets/9aaa391a-bfb7-4430-968c-89e065536d9c" alt="정영진" border="0" width="100px;" height="120px"; alt=""/></a>
         <br /><sub><b>정영진 - AI</b></sub>
     </td>
 </tbody>
@@ -59,9 +59,9 @@ https://www.youtube.com/watch?v=aMVLtHDLiXQ&ab_channel=SinyoungPark
 
 ### 🎓 앱의 교육적 목표
 물멍은 어린이들이 아쿠아리움에서 해양 생물을 관찰하는 데 집중하고, 해양 생물의 멸종 위험성에 대해 자연스럽게 학습할 수 있도록 돕습니다. 이 앱은 해양 생태계 보호와 관련된 정보 제공을 통해 아이들이 환경 문제에 대해 더 깊이 생각할 수 있도록 유도합니다.
-  
+
 ### 유즈케이스
-<img width="833" alt="image" src="https://github.com/user-attachments/assets/4674f0fb-c3bb-4ac6-9678-ac0845b19e52">
+<img width="833" alt="image" src="https://github.com/user-attachments/assets/ceddeaa0-250e-41da-b6c3-05c9018da75a">
 
 ---
 ### 구현 사진
@@ -82,7 +82,7 @@ https://www.youtube.com/watch?v=aMVLtHDLiXQ&ab_channel=SinyoungPark
 - 프론트 서버 : aws s3
 - 백엔드 : Java, Spring Boot, MySQL
 - 백엔드 서버 : GCP
-- AI : 
+- AI : ultralytics, pytorch, opencv
 - AI 서버 : GCP
 ### 웹 서버 아키텍쳐
 <img width="1355" alt="image" src="https://github.com/user-attachments/assets/30015d47-f652-4fcd-8460-19fc8c2aeb80">
