@@ -1,6 +1,6 @@
 # 🌊 물멍 (mulmung)
 
-[🏆 GDG on Campus KNU] 비전 챌린지톤(Vision Challengethon) 출품작  
+🏆[GDG on Campus KNU] 비전 챌린지톤(Vision Challengethon) 출품작  
 **UN 지속가능한 발전목표(SDGs):** 🌍 양질의 교육 & 해양생태계 보호
 
 ---
