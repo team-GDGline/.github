@@ -82,11 +82,12 @@ https://www.youtube.com/watch?v=aMVLtHDLiXQ&ab_channel=SinyoungPark
 - 프론트 서버 : aws s3
 - 백엔드 : Java, Spring Boot, MySQL
 - 백엔드 서버 : GCP
-- AI : ultralytics, pytorch, opencv
+- AI : ultralytics, pytorch, opencv, roboflow, flask, selenium
 - AI 서버 : GCP
   
 ### 웹 서버 아키텍쳐
-<img width="1355" alt="image" src="https://github.com/user-attachments/assets/ca371992-09f7-43a0-9eec-732aa9a0723c">
+
+<img width="1355" alt="image" src="https://github.com/user-attachments/assets/a6da81ce-400b-4714-8f7d-1e69d8a32b8f">
 
 
 ## 향후 개선 혹은 발전 방안
