@@ -19,10 +19,10 @@
 
 ## 스크린샷
 ### 아쿠아리움 화면
-![아쿠아리움 화면](path/to/aquarium_screenshot.png)
+![image](https://github.com/user-attachments/assets/e8ab70b0-1ae8-49bf-988c-5bc7aae332d1)
 
 ### 도감 화면
-![도감 화면](path/to/catalog_screenshot.png)
+![image](https://github.com/user-attachments/assets/315df024-bcab-4b3d-942c-75c33ee666b6)
 
 ## 기술 스택
 - **공통:** Git, GitHub
