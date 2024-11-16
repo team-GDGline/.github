@@ -3,6 +3,11 @@
 > ## 🌍**UN 지속가능한 발전목표(SDGs):**  양질의 교육 & 해양생태계 보호
 ---
 ### [👉 서비스 링크](http://mulmung.s3-website.ap-northeast-2.amazonaws.com/)
+### 이용 방법: 
+### 1. Chrome으로 접속한다.
+### 2. chrome://flags/#unsafely-treat-insecure-origin-as-secure 이 url로 접속한다.
+### 3. "Insecure origins treated as secure"영역에 http://mulmung.s3-website.ap-northeast-2.amazonaws.com 을 입력한다.
+### 4. 이제 서비스를 이용한다.
 ---
 
 <a href='https://ifh.cc/v-6PMsQD' target='_blank'>
