@@ -44,7 +44,7 @@ __해양 생물들을 촬영하여 나만의 도감을 채워나가는 체험형
 ## 시연 영상
 
 ### [시연영상 보러가기](https://www.youtube.com/watch?v=O4prGH9wHOA)
-[https://www.youtube.com/watch?v=aMVLtHDLiXQ&ab_channel=SinyoungPark](https://www.youtube.com/watch?v=O4prGH9wHOA)
+https://www.youtube.com/watch?v=O4prGH9wHOA
 
 ## 서비스 소개
 ### 🐠 개요
