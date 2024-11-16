@@ -102,3 +102,7 @@ https://www.youtube.com/watch?v=O4prGH9wHOA
 - 더 다양한 물고기들을 인식할 수 있는 AI 모델 개발
 - 전국에 있는 아쿠아리움별 서비스 제공
 - 향상된 GPU 자원을 통한 증강된 사진 학습 (현재는 gpu 리소스의 부족으로 증강 전에 라벨링된 이미지만 사용함)
+
+## 기념 사진
+<img width = "1000px" src="https://github.com/user-attachments/assets/f450b47f-6b1c-44a6-9b8c-67dde5429c8a">
+
