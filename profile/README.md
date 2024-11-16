@@ -5,8 +5,8 @@
 ### [👉 서비스 링크](http://mulmung.site/)
 ### 이용 방법: 
 ### 1. Chrome으로 접속한다.
-### 2. chrome://flags/#unsafely-treat-insecure-origin-as-secure 이 url로 접속한다.
-### 3. "Insecure origins treated as secure"영역에 http://mulmung.site/login을 입력한다.
+### 2. chrome://flags/#unsafely-treat-insecure-origin-as-secure url로 접속한다.
+### 3. "Insecure origins treated as secure"영역에 http://mulmung.site 를 입력한다.
 ### 4. 이제 서비스를 이용한다.
 ---
 
