@@ -43,8 +43,8 @@ __해양 생물들을 촬영하여 나만의 도감을 채워나가는 체험형
 
 ## 시연 영상
 
-### [시연영상 보러가기](https://www.youtube.com/watch?v=aMVLtHDLiXQ&ab_channel=SinyoungPark)
-https://www.youtube.com/watch?v=aMVLtHDLiXQ&ab_channel=SinyoungPark
+### [시연영상 보러가기](https://www.youtube.com/watch?v=O4prGH9wHOA)
+[https://www.youtube.com/watch?v=aMVLtHDLiXQ&ab_channel=SinyoungPark](https://www.youtube.com/watch?v=O4prGH9wHOA)
 
 ## 서비스 소개
 ### 🐠 개요
@@ -66,18 +66,18 @@ https://www.youtube.com/watch?v=aMVLtHDLiXQ&ab_channel=SinyoungPark
 ---
 
 ### 구현 사진
-<a href='https://ifh.cc/v-rG7nxv' target='_blank'><img src='https://github.com/user-attachments/assets/6a7a1ece-1c94-4535-9538-6f4a2a5fda52' width="300px;" border='0'></a>
-<a href='https://ifh.cc/v-cf7OHZ' target='_blank'><img src='https://github.com/user-attachments/assets/8a453660-290e-4ffa-8d2a-d614e83829bc' width="300px;"  border='0'></a>
-<a href='https://ifh.cc/v-JLCSDA' target='_blank'><img src='https://github.com/user-attachments/assets/9336f012-3a37-4084-9dce-31609afa11fb' width="300px;"  border='0'></a>
-<a href='https://ifh.cc/v-6FTCNk' target='_blank'><img src='https://github.com/user-attachments/assets/295543a5-c064-4e45-9b4c-72022e6ab35d' width="300px;"  border='0'></a>
-<a href='https://ifh.cc/v-NrqzPL' target='_blank'><img src='https://github.com/user-attachments/assets/d8b8f6db-9e38-480d-a766-52a8dce16a16' width="300px;"  border='0'></a>
-<a href='https://ifh.cc/v-NrqzPL' target='_blank'><img src='https://github.com/user-attachments/assets/f6b0682b-25f9-436d-988e-918a61c2ad9c' width="300px;"  border='0'></a>
-<a href='https://ifh.cc/v-NrqzPL' target='_blank'><img src='https://github.com/user-attachments/assets/caad4957-8749-4a33-aa38-bff058de92f4' width="300px;"  border='0'></a>
-<a href='https://ifh.cc/v-NrqzPL' target='_blank'><img src='https://github.com/user-attachments/assets/67f85feb-9535-4e60-b80c-5e1c524314d1' width="300px;"  border='0'></a>
-<a href='https://ifh.cc/v-NrqzPL' target='_blank'><img src='https://github.com/user-attachments/assets/c0911a42-c45d-42c5-80cd-5fbaab04d049' width="300px;"  border='0'></a>
-<a href='https://ifh.cc/v-NrqzPL' target='_blank'><img src='https://github.com/user-attachments/assets/8d0bbbe5-28a6-4625-9ff2-e4d680c99c92' width="300px;"  border='0'></a>
-<a href='https://ifh.cc/v-NrqzPL' target='_blank'><img src='https://github.com/user-attachments/assets/d69e185b-31c6-40cd-b09b-2d648b591252' width="300px;"  border='0'></a>
-<a href='https://ifh.cc/v-NrqzPL' target='_blank'><img src='https://github.com/user-attachments/assets/c994f98e-7a9d-4b7b-993d-c281c102c6cd' width="300px;"  border='0'></a>
+<a href='https://github.com/user-attachments/assets/6a7a1ece-1c94-4535-9538-6f4a2a5fda52' target='_blank'><img src='https://github.com/user-attachments/assets/6a7a1ece-1c94-4535-9538-6f4a2a5fda52' width="300px;" border='0'></a>
+<a href='https://github.com/user-attachments/assets/8a453660-290e-4ffa-8d2a-d614e83829bc' target='_blank'><img src='https://github.com/user-attachments/assets/8a453660-290e-4ffa-8d2a-d614e83829bc' width="300px;"  border='0'></a>
+<a href='https://github.com/user-attachments/assets/9336f012-3a37-4084-9dce-31609afa11fb' target='_blank'><img src='https://github.com/user-attachments/assets/9336f012-3a37-4084-9dce-31609afa11fb' width="300px;"  border='0'></a>
+<a href='https://github.com/user-attachments/assets/295543a5-c064-4e45-9b4c-72022e6ab35d' target='_blank'><img src='https://github.com/user-attachments/assets/295543a5-c064-4e45-9b4c-72022e6ab35d' width="300px;"  border='0'></a>
+<a href='https://github.com/user-attachments/assets/d8b8f6db-9e38-480d-a766-52a8dce16a16' target='_blank'><img src='https://github.com/user-attachments/assets/d8b8f6db-9e38-480d-a766-52a8dce16a16' width="300px;"  border='0'></a>
+<a href='https://github.com/user-attachments/assets/f6b0682b-25f9-436d-988e-918a61c2ad9c' target='_blank'><img src='https://github.com/user-attachments/assets/f6b0682b-25f9-436d-988e-918a61c2ad9c' width="300px;"  border='0'></a>
+<a href='https://github.com/user-attachments/assets/caad4957-8749-4a33-aa38-bff058de92f4' target='_blank'><img src='https://github.com/user-attachments/assets/caad4957-8749-4a33-aa38-bff058de92f4' width="300px;"  border='0'></a>
+<a href='https://github.com/user-attachments/assets/67f85feb-9535-4e60-b80c-5e1c524314d1' target='_blank'><img src='https://github.com/user-attachments/assets/67f85feb-9535-4e60-b80c-5e1c524314d1' width="300px;"  border='0'></a>
+<a href='https://github.com/user-attachments/assets/c0911a42-c45d-42c5-80cd-5fbaab04d049' target='_blank'><img src='https://github.com/user-attachments/assets/c0911a42-c45d-42c5-80cd-5fbaab04d049' width="300px;"  border='0'></a>
+<a href='https://github.com/user-attachments/assets/8d0bbbe5-28a6-4625-9ff2-e4d680c99c92' target='_blank'><img src='https://github.com/user-attachments/assets/8d0bbbe5-28a6-4625-9ff2-e4d680c99c92' width="300px;"  border='0'></a>
+<a href='https://github.com/user-attachments/assets/d69e185b-31c6-40cd-b09b-2d648b591252' target='_blank'><img src='https://github.com/user-attachments/assets/d69e185b-31c6-40cd-b09b-2d648b591252' width="300px;"  border='0'></a>
+<a href='https://github.com/user-attachments/assets/c994f98e-7a9d-4b7b-993d-c281c102c6cd' target='_blank'><img src='https://github.com/user-attachments/assets/c994f98e-7a9d-4b7b-993d-c281c102c6cd' width="300px;"  border='0'></a>
 
 
 ### 구현 방식
