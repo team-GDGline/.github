@@ -1,5 +1,5 @@
-# 🌊 물멍 (mulmung) [2024 Vision Challengethon 최우수상 수상작]
-> ## 🏆[GDG on Campus KNU] 비전 챌린지톤 출품작 <br/>
+# 🌊 물멍 Mulmung
+> ## 🏆[GDG on Campus KNU] 2024 Vision Challengethon 최우수상 수상작 <br/>
 > ## 🌍**UN 지속가능한 발전목표(SDGs):**  양질의 교육 & 해양생태계 보호
 ---
 ### [👉 서비스 링크](http://mulmung.site/)
