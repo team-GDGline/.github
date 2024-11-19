@@ -17,7 +17,7 @@
 ---
 ### 프론트 깃허브 레포지토리 : https://github.com/team-GDGline/gdgline-FE
 ### 백엔드 깃허브 레포지토리 : https://github.com/team-GDGline/gdgline-BA
-### AI 깃허브 레포지토리 : https://github.com/team-GDGline/gdgline-AI, https://github.com/team-GDGline/flask_model
+### AI 깃허브 레포지토리 : https://github.com/team-GDGline/gdgline-AI
 ---
 
 ## 서비스 요약
